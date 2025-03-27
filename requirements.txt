@@ -1,0 +1,14 @@
+# Core dependencies
+torch>=1.13.1
+streamlit>=1.24.0
+numpy>=1.24.3
+protobuf==3.20.3 
+
+# Utilities
+requests>=2.28.2
+matplotlib>=3.7.1
+pandas>=1.5.3
+tqdm>=4.65.0
+
+# Text processing
+regex>=2023.3.23
