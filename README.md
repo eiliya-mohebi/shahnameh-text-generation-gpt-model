@@ -1,13 +1,13 @@
 # Shahnameh GPT - Persian Poetry Generator
 
 <div align="center">
-  <video width="100%" src="./demo-video.mp4" controls autoplay muted loop></video>
-</div>
-
-<div align="center">
   
   [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/eiliya-mohebi/shahnameh-text-generation-gpt-model/blob/master/shahname_gpt.ipynb)
   [![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://shahnameh-gpt-model.streamlit.app/)  
+</div>
+
+<div align="center">
+  <img src="./demo-gif.gif" alt="Shahnameh GPT Demo" width="600"/>
 </div>
 
 ## 📜 About The Project
